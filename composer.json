@@ -1,0 +1,19 @@
+{
+    "name": "shadowfake/movable",
+    "description": "homework 4 - pt. II",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "shadowfakez",
+            "email": "iamshadowfake@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
